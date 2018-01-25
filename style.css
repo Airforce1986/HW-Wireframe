@@ -1,0 +1,101 @@
+/* My Code */
+
+.my-header {
+    background-color:#ebebeb;
+    height: 50px;
+    /* width: 100%; */
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+body   {
+    background-color:  #777
+}
+
+.my-nav {
+    background-color:#ebebeb;
+    height: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.my-section {
+    background-color: #ebebeb;
+    height: 250px;
+    width: 50%;
+    margin-left: 70px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    float: left;
+   
+}
+
+.my-article {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    position: relative;
+    left: 10px;
+    height: 185px;
+    width: 97%;
+    margin-top: 20px;
+    
+}
+
+.my-aside {
+    background-color: #ebebeb;
+    height: 250px;
+    width: 39.5%;    
+    text-align: center;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    float: left;
+    margin-left: 15px;    
+}
+
+.my-footer {
+    float: left;
+    clear: both;
+    background-color:#ebebeb;
+    height: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 1285px;
+
+}
+
+.my-h{
+    text-align: center;
+    background-color: white;
+    width: 15px;
+    color: black;
+    height: 185px;
+    width: 97%;
+    padding-top: 15px;
+    clear: both;
+    float: left;
+    
+}
+/* Work on clearfix */
+
+
